@@ -1,1 +1,1 @@
-# house_price
+The House Price Prediction System is a machine learning project that predicts the price of a house based on various features such as location, size, and other property details. It helps buyers, sellers, and real estate professionals make informed decisions.
